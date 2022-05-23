@@ -1,0 +1,9 @@
+Shoes1 = https://www.wigglestatic.com/product-media/5360103256/adidas-Ultra-Boost-Shoes-Running-Shoes-legend-marine-hi-res-SS19-F35234UK-12-3.jpg?w=430&h=430&a=7
+Tshirt1 = https://www.wigglestatic.com/product-media/101833086/Vaude-Sveit-T-Shirt-Jerseys-Black-Uni-SS19-40422-051-XL-3.jpg?w=430&h=430&a=7
+Jackets1 = https://www.wigglestatic.com/product-media/5360113944/dhb-Flashlight-Waterproof-Jacket-Cycling-Waterproof-Jackets-Black-Blue-AW16-NU0422-11.jpg?w=255&h=255&a=7
+Jeans1 = https://www.wigglestatic.com/product-media/5360114653/organic_jean_reg%20front.jpg?w=430&h=430&a=7
+Hats1 = https://www.wigglestatic.com/product-media/5360112689/Isadore-Ritwol-Light-Cap-Cycle-Headwear-Black-White-SS16-8586017373358-8.jpg?w=255&h=255&a=7
+Tshirt2 = https://www.wigglestatic.com/product-media/5360112498/Primal-Won-t-Stop-T-Shirt-T-shirts-Grey-WONST10M-S.jpg?w=200&h=200&a=7
+StoreLogo1 = https://image.freepik.com/free-vector/rocket-shop-store-logo-vector-icon-download_7688-349.jpg
+StoreLogo2 = https://marketplace-images-production.s3-us-west-2.amazonaws.com/vault/items/preview-552e2ef3-5814-481c-8390-74360a141525-1180x660-DqZTZ.jpg
+StoreLogo3 = https://images.assetsdelivery.com/compings_v2/ket4up/ket4up1512/ket4up151200088.jpg
